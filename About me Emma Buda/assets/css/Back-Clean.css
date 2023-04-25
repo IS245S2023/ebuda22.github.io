@@ -1,16 +1,16 @@
 .Back-clean {
-    color: #313437;
-    background-color: #fff;
+    color: #990000;
+    background-color: #eeeeee;
 }
 
 .Back-clean p {
-    color: #7d8285;
+    color: #5b5b5b;
 }
 
 .Back-clean h2 {
-    font-weight: bold;
-    margin-bottom: 40px;
-    padding-top: 40px;
+    font-weight: Bold;
+    margin-bottom: 35px;
+    padding-top: 35px;
     color: inherit;
 }
 
@@ -18,12 +18,12 @@
     .Back-clean h2 {
         margin-bottom: 25px;
         padding-top: 25px;
-        font-size: 24px;
+        font-size: 25px;
     }
 }
 
 .Back-clean .intro {
-    font-size: 16px;
+    font-size: 15px;
     max-width: 500px;
     margin: 0 auto;
 }
@@ -68,7 +68,7 @@
 
 .Back-clean .social {
     font-size: 18px;
-    color: #a2a8ae;
+    color: #0b5394;
 }
 
 .Back-clean .social a {
